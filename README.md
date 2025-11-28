@@ -1,4 +1,4 @@
-# 👁️‍🗨️  Restricted Zone Intrusion Detection System
+# 📸  Restricted Zone Intrusion Detection System
 
 ## Система обнаружения вторжения в запретную зону
 
