@@ -1,6 +1,6 @@
 # 🚷  Restricted Zone Intrusion Detection System
 
-## Система компьютерного зрения для автоматического обнаружения проникновений людей в запрещенные зоны
+## Система обнаружения проникновения людей в запрещенные зоны
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.7+-green.svg)](https://opencv.org/)
